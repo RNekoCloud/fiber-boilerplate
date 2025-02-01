@@ -1,5 +1,5 @@
-# E Learning API
-An API Service E Learning. Build with Go, Postgres, and Docker. This project using Repository pattern as its persistance data layer.
+## Description
+An API Service. Build with Go, Postgres, and Docker. This project using Repository pattern as its persistance data layer.
 
 ## Getting Started
 First, you need to clone this repository. After that, you run below to install necessary dependencies:
